@@ -17,6 +17,7 @@ public class Pet {
         this.birthDate = birthDate;
     }
 
+    
     public PetType getPetType() {
         return this.petType;
     }
